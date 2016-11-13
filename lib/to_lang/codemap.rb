@@ -31,6 +31,7 @@ module ToLang
     'irish' => 'ga',
     'italian' => 'it',
     'japanese' => 'ja',
+    'latin' => 'la',
     'latvian' => 'lv',
     'lithuanian' => 'lt',
     'macedonian' => 'mk',
